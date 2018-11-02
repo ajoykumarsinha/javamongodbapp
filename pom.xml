@@ -76,7 +76,7 @@
 						<manifest>
 							<addClasspath>true</addClasspath>
 							<!-- <classpathPrefix>lib</classpathPrefix> -->
-							<!-- <mainClass>test.org.Cliente</mainClass> -->
+							<mainClass>course.BlogController</mainClass>
 						</manifest>
 						<manifestEntries>
 							<Class-Path>lib/</Class-Path>
