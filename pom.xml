@@ -75,12 +75,12 @@
 					<archive>
 						<manifest>
 							<addClasspath>true</addClasspath>
-							<!-- <classpathPrefix>lib</classpathPrefix> -->
+							<classpathPrefix>lib</classpathPrefix>
 							<mainClass>course.BlogController</mainClass>
 						</manifest>
-						<manifestEntries>
+						<!-- <manifestEntries>
 							<Class-Path>lib/</Class-Path>
-						</manifestEntries>
+						</manifestEntries> -->
 					</archive>
 				</configuration>
 			</plugin>
