@@ -1,1 +1,2 @@
 Main-Class: course.BlogController
+. lib/*
